@@ -2,8 +2,7 @@
 
 Univariate version of some functions of the convevol package (Stayton, 2015).
 First release: 
-
-https://zenodo.org/badge/302306874.svg
+![Zenodo](https://zenodo.org/badge/302306874.svg)
 
 
 
